@@ -9,3 +9,7 @@
 - Includes PlayerLoopUtils class
 - Includes IEnumerableExtensions and TypeExtensions classes
 - Includes SerializedType class
+
+## [1.1.1] - 2024-07-22
+### Third Release
+- Includes PredefinedAssemblyUtils

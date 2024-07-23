@@ -1,6 +1,6 @@
 {
   "name": "com.datlycan.utils",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "displayName": "DatLycan's Unity Utils",
   "description": "Custom Unity Utility Library for DatLycan's packages.",
   "unity": "2022.3",
